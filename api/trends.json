@@ -1,26 +1,7 @@
 {
-  "generated_at": "2025-10-28T23:22:07.422666+08:00",
-  "total_titles_processed": 2127,
+  "generated_at": "2025-10-29T00:38:14.332529+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "铜陵",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股黄金、有色金属板块午后震荡下挫，铜陵有色接近跌停，江西铜业、豫光金铅、云南铜业跌超5%，兴业银锡、紫金矿业纷纷下挫。",
-          "url": "https://wallstreetcn.com/livenews/2994805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 15时19分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/tl3821/TrendRadar/img/news.jpg"
 }
