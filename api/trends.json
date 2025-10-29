@@ -1,25 +1,7 @@
 {
-  "generated_at": "2025-10-29T23:24:25.914307+08:00",
-  "total_titles_processed": 2191,
+  "generated_at": "2025-10-30T06:24:37.318911+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "铜陵",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股尾盘铜矿股异动拉升，江西铜业触及涨停，云南铜业、北方铜业、铜陵有色、洛阳钼业、金诚信等跟涨",
-          "url": "https://wallstreetcn.com/livenews/2995675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/tl3821/TrendRadar/img/news.jpg"
 }
