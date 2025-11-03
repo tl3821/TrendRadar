@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-11-03T11:17:32.714909+08:00",
-  "total_titles_processed": 726,
+  "generated_at": "2025-11-03T12:29:07.075400+08:00",
+  "total_titles_processed": 833,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "铜陵",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "安徽铜陵发生杀人事件系谣言",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E9%93%9C%E9%99%B5%E5%8F%91%E7%94%9F%E6%9D%80%E4%BA%BA%E4%BA%8B%E4%BB%B6%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 12时29分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/tl3821/TrendRadar/img/news.jpg"
 }
