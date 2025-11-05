@@ -1,25 +1,7 @@
 {
-  "generated_at": "2025-11-05T23:20:22.720323+08:00",
-  "total_titles_processed": 2127,
+  "generated_at": "2025-11-06T00:26:06.040181+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "铜陵",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "安徽：支持铜陵等重点黄金矿区资源整合 鼓励黄金企业以资本为纽带开展整合",
-          "url": "https://wallstreetcn.com/livenews/2999648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/tl3821/TrendRadar/img/news.jpg"
 }
