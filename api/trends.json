@@ -1,26 +1,7 @@
 {
-  "generated_at": "2025-12-09T23:24:22.746570+08:00",
-  "total_titles_processed": 2110,
+  "generated_at": "2025-12-10T00:27:28.836819+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "铜陵",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "铜陵广播电视台回应“获奖名单照搬人名大全”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32130869",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时27分 ~ 19时19分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/tl3821/TrendRadar/img/news.jpg"
 }
