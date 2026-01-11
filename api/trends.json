@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-01-11T20:40:02.490736+08:00",
-  "total_titles_processed": 1228,
-  "failed_sources": [],
+  "generated_at": "2026-01-11T21:31:17.842340+08:00",
+  "total_titles_processed": 1287,
+  "failed_sources": [
+    "cls-hot"
+  ],
   "trends": [],
   "report_image_url": "https://github.com/tl3821/TrendRadar/img/news.jpg"
 }
