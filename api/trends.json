@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-01-26T23:29:16.427467+08:00",
-  "total_titles_processed": 1879,
+  "generated_at": "2026-01-27T00:34:19.407820+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "铜陵",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "铜陵有色：米拉多铜矿二期工程正式投产的时间尚不确定 预计将对业绩产生一定影响",
-          "url": "https://wallstreetcn.com/livenews/3043907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/tl3821/TrendRadar/img/news.jpg"
 }
