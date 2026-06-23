@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-06-23T08:05:35.862967+08:00",
-  "total_titles_processed": 608,
-  "failed_sources": [],
+  "generated_at": "2026-06-23T13:01:45.275736+08:00",
+  "total_titles_processed": 856,
+  "failed_sources": [
+    "douyin"
+  ],
   "trends": [],
   "report_image_url": "https://github.com/tl3821/TrendRadar/img/news.jpg"
 }
